@@ -1,2 +1,6 @@
 吴恩达老师的机器学习课程练习
-参考于github ：https://github.com/Leedonus/Coursera-ML-AndrewNg-Notes
+大部分均在jupyter中完成，部分有py文件
+
+斯坦福大学2014（吴恩达）机器学习教程中文笔记
+
+课程地址：https://www.coursera.org/course/ml
